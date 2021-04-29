@@ -8,6 +8,6 @@ Hay 6 vitrinas que se pueden romper, en cada una de ellas te puede tocar: Pistol
   Pistola SNS,
   Navaja,
   Micro SMG,
-  Pistola Calibre 50,
+  Pistola Calibre 50
   o puede estar vacia!
   
