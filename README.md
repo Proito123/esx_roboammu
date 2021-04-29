@@ -11,3 +11,4 @@ Hay 6 vitrinas que se pueden romper, en cada una de ellas te puede tocar: Pistol
   Pistola Calibre 50
   o puede estar vacia!
   
+Contactame por discord: Proito123_#7032
